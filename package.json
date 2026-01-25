@@ -1,0 +1,39 @@
+{
+    "name": "fx.genetics",
+    "version": "1.0.0",
+    "author": "Joseph Miclaus",
+    "description": "A genetics library for fxhash open-form generative artworks, modeling trait inheritance and evolution across generations.",
+    "license": "UNLICENSED",
+    "files": [
+        "dist"
+    ],
+    "keywords": [
+        "fx.genetics",
+        "fx-genetics",
+        "fxhash-genetics",
+        "fxhash",
+        "genetics",
+        "dna",
+        "genes",
+        "genome",
+        "traits",
+        "mutations",
+        "variation",
+        "genealogy",
+        "evolution",
+        "lineage",
+        "generative-art",
+        "genart",
+        "open-form",
+        "creative-coding",
+        "algorithmic-art"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/josephmiclaus/fx.genetics.git"
+    },
+    "bugs": {
+        "url": "https://github.com/josephmiclaus/fx.genetics/issues"
+    },
+    "homepage": "https://github.com/josephmiclaus/fx.genetics"
+}

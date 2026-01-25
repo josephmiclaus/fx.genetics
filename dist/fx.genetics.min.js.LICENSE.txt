@@ -1,0 +1,5 @@
+Copyright (c) 2026 Joseph Miclaus. All rights reserved.
+
+This software and its associated documentation are proprietary.
+
+No rights are granted without explicit written permission from the Author.
