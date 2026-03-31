@@ -1,5 +1,9 @@
 <a id="top"></a>
 
+<p align="center">
+    <img src="assets/banner.jpg" alt="fx.genetics banner" width="100%" />
+</p>
+
 # fx.genetics
 
 A genetics library for [fxhash open-form generative artworks](https://docs.fxhash.xyz/creating-on-fxhash/programming-open-form-genart), modeling trait inheritance and evolution across generations. Think CryptoKitties-inspired crossing for open-form generative artworks.
